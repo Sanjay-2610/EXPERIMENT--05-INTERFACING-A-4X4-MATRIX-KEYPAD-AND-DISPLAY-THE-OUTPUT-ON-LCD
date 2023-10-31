@@ -1,3 +1,8 @@
+```
+Name: Sanjay Ragavendar
+Register Number: 212222100045
+```
+
 # EXPERIMENT 05 INTERFACING A 4X4 MATRIX KEYPAD AND DISPLAY THE OUTPUT ON LCD
 
 ## Aim: 
